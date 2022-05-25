@@ -11,6 +11,17 @@ _**cmake-project-template**_ is a modern and standardized CMake template that ut
 - Multiple types of `CMakeLists.txt`
 
 ## Understanding the layout
+For virtually all projects, they are a few key components:
++ Compilable source files
++ Public headers
++ Private headers
++ Source files containing entry points (main() functions)
++ Documentation files
++ Tests
++ Samples and examples
++ External libraries which have been embedded within the project structure
++ "Add-ons" to the source (e.g. language bindings, optional plugins, platform bindings)\\
+
 go over terminology
 
 layout in physical v. logical terms
