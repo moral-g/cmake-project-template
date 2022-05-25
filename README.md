@@ -11,7 +11,21 @@ _**cmake-project-template**_ is a modern and standardized CMake template that ut
 - Multiple types of `CMakeLists.txt`
 
 ## Understanding the layout
-todo
+go over terminology
+
+layout in physical v. logical terms
+
+project files and directories
+
+library source layout
++ header
++ test
+
+modules & submodules
+
+build systems
+
+why cmake?
 
 ## How-to-use
 Now that you've read up on the purpose of all the directories for the layout, you can choose which one best suites your needs. There are 4 different branches, one for each of the 4 combinations:
